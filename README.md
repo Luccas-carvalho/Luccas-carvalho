@@ -3,7 +3,7 @@
 Me chamo <strong>Luccas!</strong>
 
 - 🎯 &nbsp; Sou apaixonado por programação e adoro desenvolver. Sempre estou buscando aprender coisas novas e me manter atualizado nas últimas tecnologias. 
-- 🎓 &nbsp; Estudando **Sistemas deInformação** na Faculdade <a href="https://uniessa.com.br/">Uniessa</a>.
+- 🎓 &nbsp; Estudando **Sistemas de Informação** na Faculdade <a href="https://uniessa.com.br/">Uniessa</a>.
 - 💻 &nbsp; Atuo na área de chatbots e RPA há 3 anos, onde venho aprimorando minhas habilidades e conhecimentos para desenvolver soluções eficientes e eficazes para os projetos.
 
 ---
