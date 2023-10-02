@@ -17,7 +17,7 @@ para desenvolver soluções eficientes e eficazes para os projetos.
 
 | GitHub Stats |
 |-------------|
-|<img src="https://github-readme-stats.vercel.app/api?username=Luccas-carvalho&show_icons=true&theme=darcula" width="400" height="400" align="center"/> <img src="https://streak-stats.demolab.com?user=Luccas-carvalho&theme=darcula" width="425" height="425" align="center"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=Luccas-carvalho&show_icons=true&theme=darcula" width="350" height="350" align="center"/> <img src="https://streak-stats.demolab.com?user=Luccas-carvalho&theme=darcula" width="370" height="370" align="center"/>|
 
 ---
 
