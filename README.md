@@ -5,17 +5,19 @@
 ## Hello World ☕
 
 ```
-🎯 Sou apaixonado por programação e adoro desenvolver. Sempre estou buscando aprender coisas novas e me manter atualizado nas últimas tecnologias.
+🎯 Sou apaixonado por programação e adoro desenvolver. Sempre estou buscando aprender coisas novas e
+me manter atualizado nas últimas tecnologias.
 
 🎓 Estudando Sistemas de Informação na Faculdade Uniessa.
 
-💻 Atuo na área de chatbots e RPA há 3 anos, onde venho aprimorando minhas habilidades e conhecimentos para desenvolver soluções eficientes e eficazes para os projetos.
+💻 Atuo na área de chatbots e RPA há 3 anos, onde venho aprimorando minhas habilidades e conhecimentos
+para desenvolver soluções eficientes e eficazes para os projetos.
 ```
 ---
 
 | Progression |
 |-------------|
-|![Luccas Carvalho GitHub stats](https://github-readme-stats.vercel.app/api?username=Luccas-carvalho&show_icons=true&theme=darcula) &nbsp; [![GitHub Streak](https://streak-stats.demolab.com?user=Luccas-carvalho&theme=darcula)](https://git.io/streak-stats)|
+|<img src="https://github-readme-stats.vercel.app/api?username=Luccas-carvalho&show_icons=true&theme=darcula" width="300" height="300" align="center"/> <img src="https://streak-stats.demolab.com?user=Luccas-carvalho&theme=darcula" width="318" height="318" align="center"/>|
 
 ---
 
