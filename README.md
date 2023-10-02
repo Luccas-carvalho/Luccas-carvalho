@@ -16,10 +16,10 @@ para desenvolver soluções eficientes e eficazes para os projetos.
 ---
 | GitHub Stats |
 |-------------|
-|![Luccas Carvalho GitHub stats](https://github-readme-stats.vercel.app/api?username=Luccas-carvalho&show_icons=true&theme=darcula) &nbsp; [![GitHub Streak](https://streak-stats.demolab.com?user=Luccas-carvalho&theme=darcula)](https://git.io/streak-stats)|
-
+|<img src="https://github-readme-stats.vercel.app/api?username=Luccas-carvalho&show_icons=true&theme=darcula" width="400"> &nbsp; <img src="https://streak-stats.demolab.com?user=Luccas-carvalho&theme=darcula" width="420">|
 
 ---
+
 
 ## 🚀 Minhas Skills
 
