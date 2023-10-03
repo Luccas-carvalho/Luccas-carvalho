@@ -34,5 +34,5 @@ para desenvolver soluções eficientes e eficazes para os projetos.
 </div>
 
 ## ✉️ Conecte-se comigo
-<a href="https://linkedin.com/in/luccas-carvalhodesenvolvedor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Luccas-Carvalho" height="40" width="40" /></a>
-<a href="https://github.com/Luccas-carvalho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Luccas-Carvalho" width="40" height="40"/></a>
+<a href="https://linkedin.com/in/luccas-carvalhodesenvolvedor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Luccas-Carvalho" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://github.com/Luccas-carvalho" target="blank"><img align="center" src="https://cdn.simpleicons.org/github/gray" alt="Luccas-Carvalho" width="40" height="40"/></a>
