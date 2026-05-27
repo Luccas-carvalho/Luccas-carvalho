@@ -1,38 +1,43 @@
 <a href="https://github.com/Luccas-carvalho">
-     <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Luccas-carvalho&data=repositories,stars,commits&theme=carbon" alt="GitHub WirdgetBox" />     
-  </a>
+  <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Luccas-carvalho&data=repositories,stars,commits&theme=carbon" alt="GitHub WidgetBox" />
+</a>
 
-## Hello World ☕
+<h2 align="center">Luccas Carvalho</h2>
+<p align="center"><sub><strong>Full Stack Engineer</strong> · Uberlândia, MG · 5+ anos</sub></p>
 
-```
-🎯 Sou apaixonado por programação e adoro desenvolver. Sempre estou buscando aprender coisas novas e
-me manter atualizado nas últimas tecnologias.
-
-🎓 Estudando Sistemas de Informação na Faculdade Uniessa.
-
-💻 Atuo na área de chatbots e RPA há 3 anos, onde venho aprimorando minhas habilidades e conhecimentos
-para desenvolver soluções eficientes e eficazes para os projetos.
-```
----
-| GitHub Stats |
-|-------------|
-|<img src="https://github-readme-stats.vercel.app/api?username=Luccas-carvalho&show_icons=true&theme=darcula" width="350"> &nbsp; <img src="https://streak-stats.demolab.com?user=Luccas-carvalho&theme=darcula" width="370">|
+<p align="center">
+  <a href="https://linkedin.com/in/luccas-carvalhodesenvolvedor"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:luccas.carvalho@ezsoft.com.br"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
+### Sobre
 
-## 🚀 Minhas Skills
+<sub>Engenheiro de software focado em chatbots, automação e integrações em plataformas conversacionais. Background sólido em Node, TypeScript, React e operação de bots em produção.</sub>
 
-<div><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />&nbsp;&nbsp;<br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luccas-carvalho&layout=compact&langs_count=7&theme=nord"/>&nbsp;&nbsp;<br><br>
-</div>
+### Stack
 
-## ✉️ Conecte-se comigo
-<a href="https://linkedin.com/in/luccas-carvalhodesenvolvedor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Luccas-Carvalho" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://github.com/Luccas-carvalho" target="blank"><img align="center" src="https://cdn.simpleicons.org/github/gray" alt="Luccas-Carvalho" width="40" height="40"/></a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,php,laravel,python,docker,aws,mysql,git,linux" />
+</p>
+
+### Formação
+
+<sub>
+
+- **Sistemas de Informação** — Faculdade Uniessa (2019–2024)
+- **AWS Academy Cloud Foundations** (2024)
+
+</sub>
+
+### GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luccas-carvalho&show_icons=true&hide_border=true&bg_color=151515&title_color=FE8019&icon_color=FE8019&text_color=BDAE93" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=Luccas-carvalho&hide_border=true&background=151515&stroke=151515&ring=FE8019&fire=FE8019&currStreakNum=BDAE93&sideNums=BDAE93&currStreakLabel=B16286&sideLabels=BDAE93&dates=BDAE93" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luccas-carvalho&layout=compact&langs_count=8&hide_border=true&bg_color=151515&title_color=FE8019&text_color=BDAE93" width="48%"/>
+</p>
